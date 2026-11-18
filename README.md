@@ -1,5 +1,6 @@
 # EXP-5-CHARACTERISTICS-OF-SCR
-1. AIM 
+1. AIM
+    
 To study and plot the V-I characteristics of a Silicon Controlled Rectifier (SCR), and to determine its forward breakover voltage and holding current.
 3. APPARATUS REQUIRED 
 S. No.	Component	Specification	Quantity
