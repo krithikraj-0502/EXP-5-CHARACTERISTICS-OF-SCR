@@ -44,6 +44,7 @@ Reference characteristic curve from the supplied lab record.
 Gate current, IG: 0.7 mA
 VAK (V)	IAK (mA)
 	
+<img width="1920" height="1080" alt="Screenshot 2026-11-12 110547" src="https://github.com/user-attachments/assets/06bd5d72-d2a0-484c-a4f5-2d28513efd74" />
 	
 	
 	
