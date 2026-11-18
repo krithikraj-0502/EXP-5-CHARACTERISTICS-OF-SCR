@@ -1,6 +1,5 @@
 # EXP-5-CHARACTERISTICS-OF-SCR
-1. AIM
-    
+1. AIM 
 To study and plot the V-I characteristics of a Silicon Controlled Rectifier (SCR), and to determine its forward breakover voltage and holding current.
 3. APPARATUS REQUIRED 
 S. No.	Component	Specification	Quantity
@@ -60,8 +59,7 @@ VAK (V)	IAK (mA)
 	
 	
 	
-9. CALCULATIONS / GRAPH
-    
+9. CALCULATIONS / GRAPH   
 Forward breakover voltage, VBO = 11.5 V (from the recorded observation).
 Holding voltage, VH ≈ 0.72 V (from the recorded observation).
 Holding current, IH ≈ 12.4 mA (as recorded in the supplied observation/result).
