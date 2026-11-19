@@ -17,54 +17,38 @@ The SCR V-I characteristic consists of forward blocking, forward conduction and 
 7. PIN DIAGRAM / SYMBOL
 SCR terminals:  Anode (A)   |   Gate (G)   |   Cathode (K)
 8. CIRCUIT CONNECTION
-
+<img width="1920" height="435" alt="ED EXP5 CIRCUIT" src="https://github.com/user-attachments/assets/733a2e87-c0b0-44e5-bbb8-57fad69776e3" />
 9. 
 The main anode-cathode circuit consists of the regulated DC supply, a 1 kΩ series resistor, an ammeter and the SCR. A voltmeter is connected across the SCR to measure VAK. A separate regulated supply is connected through a 1 kΩ resistor to the gate, with a gate ammeter to measure IG.
  
 Reference circuit diagram from the supplied lab record.
 6. CHARACTERISTIC CURVE
-
-
-
-
 Plot VAK (V) on the X-axis and IAK (mA) on the Y-axis. The curve indicates the forward blocking region, forward breakover point, forward conduction region, holding current and reverse blocking region.
  
 Reference characteristic curve from the supplied lab record.
-7. PROCEDURE
-1. Make the connections as shown in the circuit diagram.
-2. Set R1 and R2 to the mid-position and set the regulated supplies V1 and V2 to minimum.
-3. Set the gate current IG to approximately 0.7 mA. Check that the forward breakover voltage is within the available supply range.
-4. Slowly vary the anode supply VAK in suitable steps and note VAK and IAK at each step until the SCR conducts. Note the maximum VAK just before the SCR conducts; this is the forward breakover voltage.
-5. Finding latching current: Ensure that the SCR is in the conducting state. Start reducing the anode voltage in steps while simultaneously switching OFF the gate supply. The corresponding anode current at the point at which the SCR ceases to remain latched is the latching current IL.
-6. Finding holding current: Ensure that the SCR is conducting and switch OFF the gate supply permanently. Slowly reduce VAK and note IAK at each step. The anode current just before it drops to zero is the holding current IH.
-7. Reverse the anode supply polarity and vary the reverse voltage in steps. Note the corresponding reverse current values.
-8. Plot the forward and reverse characteristics using the tabulated values and determine the SCR forward resistance from the graph.
-9. Repeat the procedure for another suitable gate current (for example, IG = 1.2 mA) and verify the characteristics.
-8. OBSERVATION / TABULATION
+
+ 
+6.PROCEDURE
+ 1. Make the connections as shown in the circuit diagram.
+ 2. Set R1 and R2 to the mid-position and set the regulated supplies V1 and V2 to minimum.
+ 3. Set the gate current IG to approximately 0.7 mA. Check that the forward breakover voltage is within the available supply range.
+ 4. Slowly vary the anode supply VAK in suitable steps and note VAK and IAK at each step until the SCR conducts. Note the maximum VAK just before the SCR     conducts; this is the forward breakover voltage.
+ 5. Finding latching current: Ensure that the SCR is in the conducting state. Start reducing the anode voltage in steps while simultaneously switching OFF    the gate supply. The corresponding anode current at the point at which the SCR ceases to remain latched is the latching current IL.
+ 6. Finding holding current: Ensure that the SCR is conducting and switch OFF the gate supply permanently. Slowly reduce VAK and note IAK at each step. The   anode current just before it drops to zero is the holding current IH.
+ 7. Reverse the anode supply polarity and vary the reverse voltage in steps. Note the corresponding reverse current values.
+ 8. Plot the forward and reverse characteristics using the tabulated values and determine the SCR forward resistance from the graph.
+ 9. Repeat the procedure for another suitable gate current (for example, IG = 1.2 mA) and verify the characteristics.
+
+8. CALCULATIONS / GRAPH
    
-Gate current, IG: 0.7 mA
-VAK (V)	IAK (mA)
-	
-<img width="1920" height="1080" alt="Screenshot 2026-11-12 110547" src="https://github.com/user-attachments/assets/06bd5d72-d2a0-484c-a4f5-2d28513efd74" />
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-9. CALCULATIONS / GRAPH   
+<img width="1920" height="570" alt="ED EXP5 GRAPH" src="https://github.com/user-attachments/assets/4de88f75-c2b9-4be0-80eb-ef97d636b862" />
+
 Forward breakover voltage, VBO = 11.5 V (from the recorded observation).
 Holding voltage, VH ≈ 0.72 V (from the recorded observation).
 Holding current, IH ≈ 12.4 mA (as recorded in the supplied observation/result).
 Forward resistance, RF = ΔVAK / ΔIAK, to be obtained from the slope of the appropriate portion of the plotted characteristic.
-11. RESULT 
+
+8. RESULT 
 The V-I characteristics of the SCR have been studied and plotted.
 Forward breakover voltage, VBO = 11.5 V.
 Holding voltage, VH = 0.72 V.
